@@ -1,0 +1,9 @@
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+c:\users\rashid\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
