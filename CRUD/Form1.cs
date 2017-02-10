@@ -28,8 +28,8 @@ namespace CRUD
 
         private void button3_Click(object sender, EventArgs e)
         {
-            FileStream fs = new FileStream(@"E:\DEC.txt", FileMode.Create);
-            StreamWriter streamWriter = new StreamWriter(fs);
+            FileStream fs = new FileStream(@"E:\DEC.txt", FileMode.Create);//try{}...
+            StreamWriter streamWriter = new StreamWriter(fs);//using (StreamWriter streamWriter = new StreamWriter(fs))
 
             try
             {
